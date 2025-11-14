@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Manav Pimparkar
 
-[cite_start]I'm an ambitious B.Tech Computer Science & Business Systems graduate from MIT-WPU, Pune [cite: 36][cite_start], with hands-on experience in full-stack web development[cite: 4].
+I'm an ambitious B.Tech Computer Science & Business Systems graduate from MIT-WPU, Pune , with hands-on experience in full-stack web development.
 
-My passion lies at the intersection of technology and business. I love building scalable solutions that solve real-world problems. [cite_start]My experience includes leading the end-to-end development of web applications [cite: 10][cite_start], building backend sales forecasting models [cite: 17, 18][cite_start], and designing user-centric prototypes[cite: 19].
+My passion lies at the intersection of technology and business. I love building scalable solutions that solve real-world problems. My experience includes leading the end-to-end development of web applications , building backend sales forecasting models , and designing user-centric prototypes.
 
 * 🚀 I'm actively seeking opportunities in **Full-Stack Development** or **Data/Business Analysis**.
-* [cite_start]🌱 I'm certified in **Oracle Generative AI** and **AI Foundations**[cite: 41, 42].
-* [cite_start]📫 How to reach me: [manavpimparkar123@gmail.com](mailto:manavpimparkar123@gmail.com) [cite: 2]
+* 🌱 I'm certified in **Oracle Generative AI** and **AI Foundations**.
+* 📫 How to reach me: [manavpimparkar123@gmail.com](mailto:manavpimparkar123@gmail.com) 
 
 ---
 
@@ -81,26 +81,26 @@ Here are some projects I'm proud of.
 
 
 ### 2. Sales Forecasting Model
-* [cite_start]**Description:** Developed a backend model to predict sales trends by analyzing historical data[cite: 17].
-* [cite_start]**Tech:** Python, Pandas, Numpy, K-Nearest Neighbours (KNN) regressor, Time series analysis (ARIMA)[cite: 18].
+* **Description:** Developed a backend model to predict sales trends by analyzing historical data.
+* **Tech:** Python, Pandas, Numpy, K-Nearest Neighbours (KNN) regressor, Time series analysis (ARIMA).
 
 
 ### 3. Object Detection in Satellite Imagery
-* [cite_start]**Description:** A computer vision project to identify and analyze objects from satellite images[cite: 15].
-* [cite_start]**Tech:** Python, OpenCV, YOLO v5, Edge detection, Contour Analysis[cite: 16].
+* **Description:** A computer vision project to identify and analyze objects from satellite images.
+* **Tech:** Python, OpenCV, YOLO v5, Edge detection, Contour Analysis.
 
 
 ### 4. BookYourSlots (UI/UX Prototyping)
-* [cite_start]**Description:** Led the end-to-end UI/UX design for a new indoor games time slot booking web application[cite: 19].
-* [cite_start]**Tech:** Figma (Wireframes, Mockups, Interactive Prototypes)[cite: 20].
+* **Description:** Led the end-to-end UI/UX design for a new indoor games time slot booking web application.
+* **Tech:** Figma (Wireframes, Mockups, Interactive Prototypes).
 
 
 ---
 
 ## 🏆 Certifications
-* [cite_start]**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** [cite: 42]
-* [cite_start]**Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** [cite: 41]
-* [cite_start]**NITTTR-SIEMENS Center of Excellence Certificate (Industrial IOT)** [cite: 42]
+* **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** 
+* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** 
+* **NITTTR-SIEMENS Center of Excellence Certificate (Industrial IOT)** 
 
 ---
 
