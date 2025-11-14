@@ -78,22 +78,22 @@ Here are some projects I'm proud of.
 ### 1. AI-Driven Grievance Management System (Capstone Project)
 * **Description:** A smart system designed to automatically classify, prioritize, and route grievances using AI, streamlining the resolution process.
 * **Tech:** Python, Natural Language Processing (NLP), Machine Learning, React
-* **[➡️ View on GitHub](https://github.com/your-username/your-repo)**
+
 
 ### 2. Sales Forecasting Model
 * [cite_start]**Description:** Developed a backend model to predict sales trends by analyzing historical data[cite: 17].
 * [cite_start]**Tech:** Python, Pandas, Numpy, K-Nearest Neighbours (KNN) regressor, Time series analysis (ARIMA)[cite: 18].
-* **[➡️ View on GitHub](https://github.com/your-username/your-repo)**
+
 
 ### 3. Object Detection in Satellite Imagery
 * [cite_start]**Description:** A computer vision project to identify and analyze objects from satellite images[cite: 15].
 * [cite_start]**Tech:** Python, OpenCV, YOLO v5, Edge detection, Contour Analysis[cite: 16].
-* **[➡️ View on GitHub](https://github.com/your-username/your-repo)**
+
 
 ### 4. BookYourSlots (UI/UX Prototyping)
 * [cite_start]**Description:** Led the end-to-end UI/UX design for a new indoor games time slot booking web application[cite: 19].
 * [cite_start]**Tech:** Figma (Wireframes, Mockups, Interactive Prototypes)[cite: 20].
-* **[➡️ View on Figma/GitHub](https://github.com/your-username/your-repo)**
+
 
 ---
 
@@ -107,8 +107,8 @@ Here are some projects I'm proud of.
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&rank_icon=github" alt="Manav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?https://github.com/Manav0721&show_icons=true&theme=radical&rank_icon=github" alt="Manav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/Manav0721&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
