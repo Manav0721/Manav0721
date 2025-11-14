@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:manavpimparkar123@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="32" width="32" />
+  <img src="httpsRead-Me-Icons/email.png" alt="Email" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
 </p>
