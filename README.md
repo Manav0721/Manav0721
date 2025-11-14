@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manav0721&color=blueviolet&style=flat-square" alt="Profile views" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Manav+Pimparkar;A+Full-Stack+Developer;A+Data+%26+AI+Enthusiast" alt="Animated typing text" />
 </p>
