@@ -1,12 +1,25 @@
-# 👋 Hi, I’m Manav Pimparkar
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manav0721&color=blueviolet&style=flat-square" alt="Profile views" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Manav+Pimparkar;A+Full-Stack+Developer;A+Data+%26+AI+Enthusiast" alt="Animated typing text" />
+</p>
 
-I'm an ambitious B.Tech Computer Science & Business Systems graduate from MIT-WPU, Pune , with hands-on experience in full-stack web development.
+<p align="center">
+  <a href="https://www.linkedin.com/in/manavpimparkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="mailto:manavpimparkar123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
 
-My passion lies at the intersection of technology and business. I love building scalable solutions that solve real-world problems. My experience includes leading the end-to-end development of web applications , building backend sales forecasting models , and designing user-centric prototypes.
+I'm an ambitious B.Tech Computer Science & Business Systems graduate from MIT-WPU, Pune, with hands-on experience in full-stack web development.
+
+My passion lies at the intersection of technology and business. I love building scalable solutions that solve real-world problems. My experience includes leading the end-to-end development of web applications, building backend sales forecasting models, and designing user-centric prototypes.
 
 * 🚀 I'm actively seeking opportunities in **Full-Stack Development** or **Data/Business Analysis**.
 * 🌱 I'm certified in **Oracle Generative AI** and **AI Foundations**.
-* 📫 How to reach me: [manavpimparkar123@gmail.com](mailto:manavpimparkar123@gmail.com) 
 
 ---
 
@@ -14,60 +27,29 @@ My passion lies at the intersection of technology and business. I love building 
 
 A collection of the technologies I use across my projects.
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
-      <br><strong>SQL</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br><strong>C++</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
-      <br><strong>Pandas</strong>
-    </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="Numpy" />
-      <br><strong>Numpy</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br><strong>OpenCV</strong>
-    </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br><strong>Figma</strong>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <strong>Frontend:</strong>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,figma" alt="Frontend Skills" />
+</p>
+
+<p align="left">
+  <strong>Backend & Database:</strong>
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql" alt="Backend Skills" />
+</p>
+
+<p align="left">
+  <strong>Data Science & ML:</strong>
+  <br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv" alt="Data Skills" />
+</p>
+
+<p align="left">
+  <strong>Tools & Platforms:</strong>
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,oraclecloud" alt="Tools" />
+</p>
 
 ---
 
@@ -77,65 +59,55 @@ Here are some projects I'm proud of.
 
 ### 1. AI-Driven Grievance Management System (Capstone Project)
 * **Description:** A smart system designed to automatically classify, prioritize, and route grievances using AI, streamlining the resolution process.
-* **Tech:** Python, Natural Language Processing (NLP), Machine Learning, React
-
+* **Tech:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/NLP-0078D4?style=flat" alt="NLP">
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat" alt="ML">
+* **[<img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="View Project">](https://github.com/Manav0721/your-repo-link)**
 
 ### 2. Sales Forecasting Model
 * **Description:** Developed a backend model to predict sales trends by analyzing historical data.
-* **Tech:** Python, Pandas, Numpy, K-Nearest Neighbours (KNN) regressor, Time series analysis (ARIMA).
-
+* **Tech:**
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy">
+    <img src="https://img.shields.io/badge/ARIMA-0078D4?style=flat" alt="ARIMA">
+* **[<img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="View Project">](https://github.com/Manav0721/your-repo-link)**
 
 ### 3. Object Detection in Satellite Imagery
 * **Description:** A computer vision project to identify and analyze objects from satellite images.
-* **Tech:** Python, OpenCV, YOLO v5, Edge detection, Contour Analysis.
-
+* **Tech:**
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat" alt="YOLOv5">
+* **[<img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="View Project">](https://github.com/Manav0721/your-repo-link)**
 
 ### 4. BookYourSlots (UI/UX Prototyping)
 * **Description:** Led the end-to-end UI/UX design for a new indoor games time slot booking web application.
-* **Tech:** Figma (Wireframes, Mockups, Interactive Prototypes).
-
+* **Tech:**
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Wireframing-1A1A1A?style=flat" alt="Wireframing">
+    <img src="https://img.shields.io/badge/Prototyping-1A1A1A?style=flat" alt="Prototyping">
+* **[<img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=figma&logoColor=white" alt="View Project">](https://github.com/Manav0721/your-repo-link)**
 
 ---
 
 ## 🏆 Certifications
-* **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** 
-* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** 
-* **NITTTR-SIEMENS Center of Excellence Certificate (Industrial IOT)** 
+<p>
+  <img src="https://img.shields.io/badge/Oracle_Certified-Generative_AI_Professional-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle GenAI Cert">
+  <br>
+  <img src="https://img.shields.io/badge/Oracle_Certified-AI_Foundations_Associate-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle AI Foundations Cert">
+  <br>
+  <img src="https://img.shields.io/badge/NITTTR_SIEMENS-Industrial_IOT-009999?style=flat&logo=siemens&logoColor=white" alt="Siemens IOT Cert">
+</p>
 
 ---
 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?https://github.com/Manav0721&show_icons=true&theme=radical&rank_icon=github" alt="Manav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/Manav0721&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manav0721&show_icons=true&theme=radical&rank_icon=github" alt="Manav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav0721&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manav0721&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manavpimparkar">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:manavpimparkar123@gmail.com">
-    <img src="httpsRead-Me-Icons/email.png" alt="Email" width="48" height="48" />
-  </a>
-</p>
-
-<!--
-**Manav0721/Manav0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
