@@ -4,14 +4,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manavpimparkar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:manavpimparkar123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="48" height="48" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Manav0721&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
