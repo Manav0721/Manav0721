@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:manavpimparkar123@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" height="32" width="32" />
+  <img src="https://img.shields.io/badge/-%20-FFFFFF?style=flat-square&logo=gmail&logoColor=D14836" alt="Email" height="32" />
   </a>
   &nbsp;&nbsp;
 </p>
